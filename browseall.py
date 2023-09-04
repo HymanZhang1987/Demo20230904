@@ -1,5 +1,7 @@
 
 def inc(x):
+    if x == 5:
+        x = 10
     return x + 15
 
 
